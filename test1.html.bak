@@ -16,7 +16,7 @@
         width: 150px;
         top: 50vh;
         left: 50vw;
-        transform: scale(1.0);
+        transform: scale(0.5);
       }
       .esp-box .health-bar {
         height: 100%;
